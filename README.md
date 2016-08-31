@@ -1,2 +1,5 @@
 # hello-world
-test
+
+hi humans
+i am a git novice.
+this is my first trying.
